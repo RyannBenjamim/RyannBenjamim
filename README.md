@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Ryan Costa
 #
-- 📖 Estudando Python
+- 📖 Estudando JavaScript
 - 💻 Cursando Engenharia de Computação
  <div>
   <a href="https:github.com/RyannBenjamim">
